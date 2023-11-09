@@ -47,8 +47,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: LOKESH N
+### Register Number: 212222100023
+![281481287-50812c6f-dd26-42eb-8500-1e94e8b71978](https://github.com/lokeshnarayanan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393019/285fca8f-d084-43d1-a4fa-0bec1a680986)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
